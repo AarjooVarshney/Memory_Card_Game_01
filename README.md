@@ -19,7 +19,7 @@ The Memory Card Game is a classic concentration game where players need to match
 ## Installation
 To run the game locally, follow these steps:
 1. Clone the repository to your local machine:
-git clone [https://github.com/your-username/memory-card-game.git](https://github.com/AarjooVarshney/Memory_Card_Game_01.git)
+git clone [https://github.com/your-username/memory-card-game01.git](https://github.com/AarjooVarshney/Memory_Card_Game_01.git)
 2. Navigate to the project directory:
 3. Install dependencies using npm or yarn:
 or
